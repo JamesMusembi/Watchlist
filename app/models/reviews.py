@@ -16,3 +16,4 @@ class Review:
     @classmethod
     def clear_reviews(cls):
         Review.all_reviews.clear()
+
